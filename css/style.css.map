@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/lijunpeng/Documents/个人资料/myblog",
+	"sourceRoot": "/Users/lijunpeng/Documents/workspace/program/myblog",
 	"sources": [
 		"themes/hugo-refresh/assets/style.sass",
 		"themes/hugo-refresh/assets/bulma/bulma.sass",
